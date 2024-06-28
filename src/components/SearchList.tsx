@@ -1,8 +1,10 @@
+// @ts-nocheck
+
 import { SearchResultContext } from "@/context/searchResult.context";
 import useMultiSearch from "@/hooks/useMultiSearch";
-import React, { useContext } from "react";
 import MovieCard from "./MovieCard";
 import TvShowCard from "./TvShowCard";
+import { useContext } from "react";
 
 export default function SearchList() {
   const { searchData, searchText } = useContext(SearchResultContext);

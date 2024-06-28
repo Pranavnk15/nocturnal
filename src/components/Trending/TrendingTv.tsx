@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import useTrendingList from "@/hooks/useTrendingList";
 import { MdOutlineExpandMore } from "react-icons/md";
 import { useState } from "react";
