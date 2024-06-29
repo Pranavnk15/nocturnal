@@ -13,6 +13,10 @@ Nocturnal is a sleek and user-friendly movie streaming web application built usi
 
 Check out the live demo of Nocturnal [here](https://nocturnal-15.web.app/).
 
+## NOTE
+
+**Enable VPN Before Accessing the web-app**.
+
 ## 🛠️ Tech Stack
 
 - ⚛️ **React** - A JavaScript library for building user interfaces.
